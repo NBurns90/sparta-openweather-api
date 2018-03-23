@@ -7,8 +7,4 @@ class WeatherService
     SingleWeatherService.new
   end
 
-  # def multiple_weather_service
-  #   MultiplePostcodesService.new
-  # end
-
 end
